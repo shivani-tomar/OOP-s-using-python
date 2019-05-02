@@ -142,3 +142,4 @@ def __Hello():
 
 __isHungry = "No"
 
+To access private data outside of class then concatenate its name with "_className"
